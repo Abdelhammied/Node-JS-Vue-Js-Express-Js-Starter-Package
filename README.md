@@ -1,6 +1,6 @@
-# qualifier
+# Node js And Express Js , Vue Js Foundation Project
 
-> qualifier website based on nodejs and vue js 
+> Foundation Project For Nodejs express vuejs stack
 
 ## Build Setup
 
@@ -8,8 +8,14 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# run vue server on localhost:8080
 npm run dev
+
+# run nodejs server on localhost:3000
+npm run server
+
+# run both of servers
+npm run all
 
 # build for production with minification
 npm run build
