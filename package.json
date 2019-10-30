@@ -13,7 +13,7 @@
     },
     "dependencies": {
         "express": "^4.17.1",
-        "sequelize": "^5.8.12",
+        "sequelize": "^5.15.1",
         "sqlite3": "^4.0.9",
         "vue": "^2.5.2",
         "vue-router": "^3.0.1"
